@@ -1,0 +1,22 @@
+{
+    "counts" : [
+        {
+            "id": "001",
+            "label": "Patients Monitored",
+            "number": "5000",
+            "duration": "2"
+        },
+        {
+            "id": "002",
+            "label": "Hospitals Partnered",
+            "number": "300",
+            "duration": "2"
+        },
+        {
+            "id": "003",
+            "label": "Recent Uptime",
+            "number": "99",
+            "duration": "2"
+        }
+    ]
+}
